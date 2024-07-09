@@ -1,3 +1,5 @@
+<h2 align="center"> IMPROVE YOUR LOGIC WITH TTHOSE CHALLENGES IN C++</h2>
+
 **A. Fundamentos Básicos**
 * Imprimir "Hello World".
 * Leer un número desde la entrada estándar y mostrarlo.
@@ -101,4 +103,9 @@
 * Implementar un programa que realice operaciones matemáticas complejas (álgebra lineal, cálculo numérico).
 * Implementar un proyecto completo que combine varios de los conceptos y técnicas aprendidas.
 
--Estos ejercicios te proporcionarán una amplia variedad de desafíos para mejorar tus habilidades en C++. ¡Diviértete programando!
+<h4>Estos ejercicios te proporcionarán una amplia variedad de desafíos para mejorar tus habilidades en C++. ¡Diviértete programando!</h4>
+
+### Look at for the [Documentation C++](https://cplusplus.com/reference/)
+- [Articles](https://cplusplus.com/articles/)
+- [Forum](https://cplusplus.com/forum/)
+- [Tutorials](https://cplusplus.com/doc/)
