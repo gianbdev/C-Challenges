@@ -1,4 +1,4 @@
-<h2 align="center"> IMPROVE YOUR LOGIC WITH TTHOSE CHALLENGES IN C++</h2>
+<h2 align="center"> IMPROVE YOUR LOGIC WITH THOSE CHALLENGES IN C++</h2>
 
 **A. Fundamentos Básicos**
 * Imprimir "Hello World".
