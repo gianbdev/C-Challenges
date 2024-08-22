@@ -1,0 +1,4 @@
+# Ignorar archivos compilados y ejecutables
+*.out
+*.o
+*.exe
